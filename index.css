@@ -1,0 +1,38 @@
+body{
+    max-width: 1440px;
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.container{
+    
+    width: 300px;
+    height: 500px;
+    margin-left:-"half the width"px;
+    text-align: center;
+    background-color:white;
+    position: absolute;
+    top: 15%;
+    padding: 15px;
+    border-radius: 10px;
+}
+.heading1{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+.heading2{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(212, 45%, 89%);
+}
+img{
+    width: 290px;
+    height: 60%;
+    border-radius: 10px;
+}
